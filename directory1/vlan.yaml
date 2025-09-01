@@ -1,0 +1,6 @@
+---
+vlan_list:
+  - id: 10
+    name: dmz
+  - id: 20
+    name: internal  
