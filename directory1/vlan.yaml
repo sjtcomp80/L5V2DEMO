@@ -10,3 +10,5 @@ vlan_list:
     name: Test
   - id: 50
     name: Test2
+  - id: 60
+    name: Test3
