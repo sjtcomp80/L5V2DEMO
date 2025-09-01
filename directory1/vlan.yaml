@@ -4,3 +4,5 @@ vlan_list:
     name: dmz
   - id: 20
     name: internal  
+  - id: 30
+    name: External
