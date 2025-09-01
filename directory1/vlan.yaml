@@ -8,3 +8,5 @@ vlan_list:
     name: External
   - id: 40
     name: Test
+  - id: 50
+    name: Test2
